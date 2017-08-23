@@ -4,10 +4,17 @@ defmodule Mix.Tasks.Translate.Accuracy do
 
   def run(_) do
     stats = Translate.TestCases.Wikibooks.all()
-    |> analyse_cases
-    |> aggregate_accuracies
-    IO.puts "Exactly correct: #{stats.exact} (#{stats.exact_percentage}%)"
-    IO.puts "Correct ignoring accents: #{stats.accented} (#{stats.accented_percentage}%)"
+            |> Enum.map(&translate_case/1)
+            |> analyse_cases
+            |> aggregate_accuracies
+
+    IO.puts "Translation steps: #{Enum.join(Translate.steps, ", ")}"
+    IO.puts "Exactly correct: #{stats.exact} (#{stats.exact_ratio})"
+    IO.puts "Correct ignoring accents: #{stats.accented} (#{stats.accented_ratio})"
+  end
+
+  def translate_case([esp_word, cat_word]) do
+    [Translate.esp_to_cat(esp_word), cat_word]
   end
 
   def analyse_cases(cases) do
@@ -22,8 +29,8 @@ defmodule Mix.Tasks.Translate.Accuracy do
     %{
       exact: num_exact,
       accented: num_accented,
-      exact_percentage: num_exact / num_accuracies * 100,
-      accented_percentage: num_accented / num_accuracies * 100,
+      exact_ratio: num_exact / num_accuracies,
+      accented_ratio: num_accented / num_accuracies,
     }
   end
 

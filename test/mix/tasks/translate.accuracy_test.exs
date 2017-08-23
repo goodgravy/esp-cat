@@ -24,8 +24,8 @@ defmodule Mix.Tasks.Translate.AccuracyTest do
               |> Mix.Tasks.Translate.Accuracy.aggregate_accuracies
 
     assert results.exact == 1
-    assert results.exact_percentage == 50
+    assert results.exact_ratio == 0.5
     assert results.accented == 2
-    assert results.accented_percentage == 100
+    assert results.accented_ratio == 1
   end
 end
