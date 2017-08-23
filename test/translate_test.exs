@@ -2,17 +2,17 @@ defmodule TranslateTest do
   use ExUnit.Case
   doctest Translate
 
-  test "works bueno" do
-    assert Translate.esp_to_cat("bueno") == "bon"
-  end
-
   test "analyse_cases returns a struct for each case" do
     test_cases = [
       ["exact", "exact"],
       ["accented", "àccénted"],
       ["completely", "different"],
     ]
-    results = Translate.analyse_cases(test_cases)
+
+    results = test_cases
+              |> Enum.map(&Translate.TranslationRecord.from_pair/1)
+              |> Enum.map(&Translate.translate/1)
+              |> Translate.analyse_cases
 
     assert length(results) == 3
     assert Enum.count(results, &(&1.correct_exactly)) == 1
@@ -25,6 +25,8 @@ defmodule TranslateTest do
       ["accented", "àccénted"],
     ]
     results = test_cases
+              |> Enum.map(&Translate.TranslationRecord.from_pair/1)
+              |> Enum.map(&Translate.translate/1)
               |> Translate.analyse_cases
               |> Translate.aggregate_accuracies
 

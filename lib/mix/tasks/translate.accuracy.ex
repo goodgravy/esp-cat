@@ -3,7 +3,8 @@ defmodule Mix.Tasks.Translate.Accuracy do
 
   def run(_) do
     stats = Translate.TestCases.Wikibooks.all()
-            |> Enum.map(&Translate.case/1)
+            |> Enum.map(&Translate.TranslationRecord.from_pair/1)
+            |> Enum.map(&Translate.translate/1)
             |> Translate.analyse_cases
             |> Translate.aggregate_accuracies
 

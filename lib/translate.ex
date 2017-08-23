@@ -5,19 +5,15 @@ defmodule Translate do
 
   defstruct [:correct_exactly, :correct_ignoring_accents]
 
-  def esp_to_cat(esp_word) do
-    Enum.reduce(Translate.Transformers.funcs(), esp_word, fn(fun, word) ->
-      fun.(word)
+  def translate(record) do
+    Enum.reduce(Translate.Transformers.funcs(), record, fn(fun, record) ->
+      intermediate = fun.(hd record.intermediate_words)
+      Translate.TranslationRecord.add_intermediate(record, intermediate)
     end)
   end
 
-  def case([esp_word, cat_word]) do
-    [Translate.esp_to_cat(esp_word), cat_word]
-  end
-
   def analyse_cases(cases) do
-    cases
-    |> Enum.map(&correctness/1)
+    cases |> Enum.map(&correctness/1)
   end
 
   def aggregate_accuracies(accuracies) do
@@ -32,10 +28,10 @@ defmodule Translate do
     }
   end
 
-  defp correctness([esp_word, cat_word]) do
+  defp correctness(record) do
     %__MODULE__{
-      correct_exactly: correct_exactly(esp_word, cat_word),
-      correct_ignoring_accents: correct_ignoring_accents(esp_word, cat_word),
+      correct_exactly: correct_exactly(hd(record.intermediate_words), record.cat_word),
+      correct_ignoring_accents: correct_ignoring_accents(hd(record.intermediate_words), record.cat_word),
     }
   end
 
