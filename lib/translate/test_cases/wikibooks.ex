@@ -1,9 +1,9 @@
 defmodule Translate.TestCases.Wikibooks do
   def all do
-    YamlElixir.read_from_file(path())
+    File.stream!(path()) |> CSV.decode!(separator: ?\t)
   end
 
   defp path do
-    File.cwd! |> Path.join("test-cases/wikibooks.yaml")
+    File.cwd! |> Path.join("test-cases/wikibooks.tsv")
   end
 end

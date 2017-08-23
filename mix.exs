@@ -14,12 +14,16 @@ defmodule Translate.Mixfile do
   # Run "mix help compile.app" to learn about applications.
   def application do
     [
-      extra_applications: [:yaml_elixir, :logger]
+      extra_applications: [
+        :logger,
+      ]
     ]
   end
 
   # Run "mix help deps" to learn about dependencies.
   defp deps do
-    [{:yaml_elixir, "~> 1.3.1"}]
+    [
+      {:csv, "~> 2.0.0"},
+    ]
   end
 end
