@@ -3,29 +3,47 @@ defmodule Translate do
   Documentation for Translate.
   """
 
+  defstruct [:correct_exactly, :correct_ignoring_accents]
+
   def esp_to_cat(esp_word) do
-    Enum.reduce(step_funcs(), esp_word, fn(fun, word) ->
+    Enum.reduce(Translate.Transformers.funcs(), esp_word, fn(fun, word) ->
       fun.(word)
     end)
   end
 
-  def step_names, do: Keyword.keys(steps())
-
-  defp step_funcs, do: Keyword.values(steps())
-
-  defp steps do
-    [
-      ue_to_o: &ue_to_o/1,
-      ie_to_e: &ie_to_e/1,
-      ion_to_io: &ion_to_io/1,
-      drop_o: &drop_o/1,
-      drop_e: &drop_e/1,
-    ]
+  def case([esp_word, cat_word]) do
+    [Translate.esp_to_cat(esp_word), cat_word]
   end
 
-  defp ue_to_o(word), do: String.replace(word, "ue", "o")
-  defp ie_to_e(word), do: String.replace(word, "ie", "e")
-  defp ion_to_io(word), do: String.replace(word, ~r/ión$/, "ió")
-  defp drop_o(word), do: String.replace(word, ~r/o$/, "")
-  defp drop_e(word), do: String.replace(word, ~r/e$/, "")
+  def analyse_cases(cases) do
+    cases
+    |> Enum.map(&correctness/1)
+  end
+
+  def aggregate_accuracies(accuracies) do
+    num_accuracies = Enum.count(accuracies)
+    num_exact = Enum.count(accuracies, &(&1.correct_exactly))
+    num_accented = Enum.count(accuracies, &(&1.correct_ignoring_accents))
+    %{
+      exact: num_exact,
+      accented: num_accented,
+      exact_ratio: num_exact / num_accuracies,
+      accented_ratio: num_accented / num_accuracies,
+    }
+  end
+
+  defp correctness([esp_word, cat_word]) do
+    %__MODULE__{
+      correct_exactly: correct_exactly(esp_word, cat_word),
+      correct_ignoring_accents: correct_ignoring_accents(esp_word, cat_word),
+    }
+  end
+
+  defp correct_exactly(esp_word, cat_word) do
+    esp_word == cat_word
+  end
+
+  defp correct_ignoring_accents(esp_word, cat_word) do
+    WordSmith.remove_accents(esp_word) == WordSmith.remove_accents(cat_word)
+  end
 end
