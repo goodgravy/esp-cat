@@ -1,0 +1,3348 @@
+a bona vista
+es a buena vista; a más ganar
+
+abeurar
+es enlechar
+
+a portell
+es a tresbolillo; al tresbolillo
+
+abocador
+es vertedero
+
+a topar
+es a tope
+
+abocador
+es derramadero
+
+abraçadora
+es abrazadera
+
+absidiola
+es ábside secundario; absidiola; absidiolo
+
+acabament
+es remate
+
+acabat
+es acabado
+
+àbac
+es ábaco
+
+abastament
+es abastecimiento; suministro
+
+accés
+es acceso
+
+acer
+es acero
+
+acer galvanitzat
+es acero galvanizado
+
+acer inoxidable
+es acero inoxidable
+
+acer laminat
+es acero laminado
+
+acer laminat en calent
+es acero laminado en caliente
+
+aclotament
+es ahoyado
+
+aclotar
+es ahoyar
+
+acotació
+es acotación; acotamiento
+
+acotar
+es acotar
+
+additiu
+es aditivo
+
+adormiment
+es fraguado
+
+adreçar
+es jaharrar; jarrear
+
+afrontar
+es lindar
+
+aglomerant
+es aglomerante
+
+aglomerat asfàltic
+es aglomerado asfáltico; aglomerado de
+
+agulla
+es machón
+
+aigua de pluja
+es agua de lluvia; agua pluvial; aguas
+
+aiguafons
+es lima hoya
+
+aiguarràs
+es aguarrás
+
+aiguavés
+es agua; faldón; vertiente
+
+aiguavés
+es crujía
+
+rentador
+es fregadero; fregador
+
+aigües fecals
+es aguas fecales; aguas negras
+
+aïllant
+es aislante
+
+aïllant acústic
+es aislante acústico matériau isolant
+
+aïllant tèrmic
+es aislante térmico
+
+aire condicionat
+es aire acondicionado
+
+aireig
+es aireación; ventilación
+
+aixafament
+es aplastamiento
+
+aixecament
+es levantamiento
+
+aixeta
+es grifo
+
+aixeta d’obturador de disc
+es grifo de plato
+
+aixeta de monocomandament
+es grifo monomando
+
+aixeta de pas
+es llave de paso
+
+aixeta mescladora
+es grifo mezclador
+
+aixeta monobloc
+es grifo monobloc
+
+aixetam
+es grifería
+
+ala
+es ala
+
+alçària
+es altura
+
+alineació
+es alineación
+
+allindanar
+es dintelar
+
+allindanat -ada
+es adintelado
+
+alumini
+es aluminio
+
+alumini anoditzat
+es aluminio anodizado
+
+amidament
+es medición
+
+ampit
+es antepecho; pretil
+
+ampit
+es antepecho
+
+ampliació
+es ampliación
+
+amplificador
+es amplificador
+
+ancorar
+es anclar
+
+ancoratge
+es anclaje
+
+ànima
+es alma
+
+anivellació
+es nivelación
+
+antena
+es antena
+
+aparcament
+es aparcamiento; parking
+
+aparellador -a m i
+es aparejador; arquitecto técnico
+
+apedaçament
+es bacheo
+
+apedaçar
+es bachear
+
+aplacar
+es chapar; chapear
+
+aplic
+es aplique; lámpara de pared
+
+apuntalament
+es apuntalamiento
+
+apuntalament
+es entibación
+
+arc
+es arco
+
+arc apuntat
+es arco apuntado; arco gótico; arco ojival
+
+arc elèctric
+es arco eléctrico
+
+arc faixó
+es arco fajón; arco perpiaño
+
+arc rebaixat
+es arco de punto hurtado; arco rebajado
+
+arcada
+es arcada
+
+arcbotant
+es arbotante; arco botarete; arco boterel
+
+arcuació
+es arcuación; arquería
+
+arena
+es arena
+
+arena fina
+es arena fina
+
+arenós -osa
+es arenoso
+
+aresta
+es arista
+
+argamassa
+es argamasa; mortero de cal
+
+argila
+es arcilla
+
+argila expandida
+es arcilla expandida
+
+argila refractària
+es arcilla refractaria
+
+argollada
+es anillado
+
+argueig
+es manejo de cabrestante
+
+àrid
+es árido
+
+armadura
+es armadura
+
+armadura
+es armadura
+
+armadura de coberta
+es armadura de cubierta; cercha; cuchillo
+
+armadura de repartiment
+es armadura de reparto
+
+arquitravat -ada
+es arquitrabado
+
+armament
+es armado
+
+arrabà
+es alfiz; arrabá
+
+arrambador
+es baranda; barandilla
+
+arrebossador -a m i
+es enfoscador
+
+arrebossat
+es revoco; revoque
+
+arrencada
+es arranque
+
+arrimador
+es arrimadero
+
+armari d’obra
+es armario empotrado
+
+arqueta
+es arca de agua; arqueta
+
+arqueta de distribució
+es arqueta de distribución
+
+arquitecte -a m i
+es arquitecto
+
+artiller -a metxer -a m i
+es artillero; pegador
+
+atrompetat -ada
+es abocinado
+
+ascensor
+es ascensor
+
+autoportant
+es autoportante
+
+asfalt
+es asfalto
+
+autosimilitud escalar
+es autosimilitud escalar
+
+asfalt fos
+es asfalto fundido
+
+avantprojecte
+es anteproyecto
+
+assaig de Pròctor
+es ensayo de Proctor
+
+assaig geotècnic
+es ensayo geotécnico
+
+assentament
+es asiento
+
+baix relleu
+es bajo relieve; bajorrelieve
+
+baixant
+es bajante
+
+baixant de gerrer
+es bajante cerámico
+
+balast
+es balasto; balastro
+
+banyera
+es bañera
+
+balcó
+es balcón
+
+banyera d’hidromassatge
+es bañera de hidromasaje; jacuzzi
+
+balisa
+es baliza
+
+balustre
+es balaustre; balaústre
+
+banyerola
+es bañaseo
+
+barbacana
+es alero; antetecho; rafe
+
+barra
+es barra
+
+barra corrugada
+es barra corrugada
+
+barraca
+es barracón
+
+banc
+es banco
+
+banqueta
+es zarpa
+
+bany
+es baño; cuarto de baño
+
+bastiment de base
+es precerco
+
+bastiment de doella
+es marco de mocheta
+
+barrot
+es barrote
+
+batent
+es batiente; hoja
+
+basament
+es basamento
+
+betum
+es betún
+
+bastida
+es andamio
+
+beurada
+es lechada
+
+bastigi
+es bastidor
+
+bastiment
+es cerco; marco
+
+lletada bituminosa
+es lechada bituminosa
+
+biaix de cartabó
+es inglete
+
+barrera
+es barrera
+
+barrera arquitectònica
+es barrera arquitectónica
+
+bidet
+es bidé
+
+bidó
+es bidón
+
+biga
+es viga
+
+biga alveolada
+es viga alveolada
+
+biga composta
+es viga compuesta; viga en doble T
+
+biga d’ànima plena
+es viga de alma llena; viga maciza
+
+biga de gelosia
+es viga de celosía
+
+biga laminada
+es viga laminada
+
+biga mestra
+es jácena; viga maestra
+
+bigueta
+es vigueta
+
+bisell
+es bisel
+
+biuló
+es pestillo
+
+bloc
+es bloque
+
+bloc ceràmic
+es bloque cerámico
+
+bloc ceràmic lleuger
+es bloque cerámico aligerado
+
+bombeta
+es bombilla; lámpara de incandescencia
+
+bloc de formigó
+es bloque de hormigón
+
+bloc de pedra
+es bloque de piedra
+
+bonera
+es sumidero
+
+boquera
+es boquera; toma
+
+born
+es borne; terminal
+
+bossell
+es bocel
+
+bota
+es bota
+
+brancal
+es jamba
+
+bloc de pisos
+es bloque de pisos
+
+boca d’incendis
+es boca de incendio
+
+boca de reg
+es boca de riego
+
+bol
+es bol
+
+brancalada
+es jambaje
+
+bugaderia
+es lavadero
+
+broc d’impulsió
+es boquilla de impulsión
+
+buidada
+es vaciado
+
+buit
+es hueco; vano
+
+buit
+es oquedad
+
+buixarda
+es bujarda; martellina
+
+buixardada
+es abujardado
+
+buixardar
+es abujardar
+
+burí
+es buril
+
+broca
+es broca
+
+brocal
+es arcén; brocal; pozal
+
+bronze
+es bronce
+
+brunzidor
+es zumbador
+
+buc
+es casco
+
+bufador
+es soplete
+
+cabàs
+es capacho; espuerta
+
+cabina
+es cabina
+
+cable coaxial
+es cable coaxial
+
+cable monopolar
+es cable unipolar
+
+cadmiat -ada
+es cadmiado
+
+caiguda de tensió
+es caída de potencial; caída de tensión
+
+cairó hexagonal
+es baldosa hexagonal
+
+caixa de connexió
+es caja de conexión; caja de empalme
+
+caixa de distribució
+es caja de distribución
+
+cable multipolar
+es cable multipolar
+
+caixa general de protecció
+es caja general de protección; torpedo
+
+cable telefònic
+es cable de teléfono
+
+caixa sifònica
+es bote sifónico
+
+cala
+es calicata; cata
+
+cambra d’aire
+es cámara de aire
+
+calç
+es cal
+
+calçada
+es calzada
+
+camió
+es camión
+
+calcària
+es caliza; piedra calcárea
+
+calces
+es derivación en Y
+
+camió de trabuc
+es camión volquete; volquete
+
+calcina
+es lechada de cal
+
+camió formigonera
+es camión hormigonera
+
+calefacció
+es calefacción
+
+camió grua
+es camión grúa
+
+camisa aïllant
+es coquilla aislante; tubo de protección
+
+campana
+es campana
+
+canal
+es canalón
+
+canalització
+es canalización
+
+cantonera
+es cantonera; guardacantos; guardavivos
+
+canyís
+es cañizo
+
+capa aïllant
+es capa aislante
+
+capa d’acabat
+es mano de acabado
+
+cancell
+es cancel
+
+canonada
+es cañería; tubería
+
+capa de compressió
+es capa de compresión
+
+capa de trànsit
+es capa de rodadura
+
+capacitat portant
+es capacidad portante
+
+cantó
+es esquina
+
+cantonada
+es esquina
+
+capçal
+es cabecero; cabio
+
+caragol
+es tornillo
+
+capçaner
+es albardilla; mojinete
+
+carener
+es lima tesa
+
+capcer
+es hastial; muro piñón; pared apiñonada; piñón
+
+carener
+es caballete; cumbrera; hilada de cumbrera
+
+careta
+es careta; careta de protección
+
+capellet de xemeneia
+es caperuza; sombrerete
+
+capialt
+es capialzado
+
+càrrega
+es carga
+
+capitell
+es capitel
+
+carretó
+es carretilla
+
+capritx
+es folie
+
+carretó elevador
+es carretilla elevadora
+
+carretó elevador de forca
+es carretilla elevadora de horquilla; toro
+
+carreu
+es sillar
+
+carreuó
+es sillarejo
+
+carril
+es carril
+
+cartabó
+es cartabón
+
+cartó guix
+es cartón yeso
+
+casa aparellada
+es casa pareada
+
+casa en filera
+es casa adosada; casa alineada; casa en hilera
+
+casa entre mitgeres
+es casa entre medianeras
+
+casa unifamiliar
+es vivienda unifamiliar
+
+casc
+es casco
+
+cassetó
+es artesón; casetón
+
+cassetonat
+es artesonado
+
+cautxú
+es caucho
+
+cavalcament
+es solape
+
+cavall
+es alfarda; par
+
+cimbori
+es cimborio; cimborrio
+
+cavallet
+es caballete
+
+ciment
+es cemento
+
+ciment blanc
+es cemento blanco; cemento pórtland
+
+ciment cola
+es cemento cola
+
+ciment natural
+es cemento natural
+
+ciment pòrtland
+es cemento de Pórtland
+
+ciment ràpid
+es cemento natural rápido; cemento rápido
+
+càvec
+es azadón
+
+cel ras
+es cielo raso; techo falso
+
+ceràmica
+es cerámica
+
+cèrcol
+es zuncho
+
+cianamida de plom
+es cianamida de plomo
+
+cinta mètrica
+es cinta métrica
+
+cintra
+es cimbra
+
+cinturó de seguretat
+es cinturón de seguridad
+
+circuit
+es circuito
+
+cisterna
+es aljibe; cisterna
+
+claraboia
+es claraboya; lucernario; tragaluz
+
+claraboia trepitjable
+es claraboya pisable
+
+clasta
+es patio
+
+cisalla
+es cizalla
+
+clau
+es clave
+
+cisallament
+es cortadura
+
+clau
+es clavo
+
+cisell
+es cincel
+
+clau de paleta
+es clavo de albañil; clavo sujetador
+
+claveguera
+es alcantarilla; cloaca
+
+clavegueró
+es tajea
+
+climatitzador
+es climatizador
+
+clínquer
+es clinca; clínker
+
+clorur de polivinil
+es cloruro de polivinilo; policloruro de vinilo; PVC polychlorure de vinyle; PVC
+
+clot
+es bache
+
+coberta
+es cubierta
+
+coberta a la catalana
+es cubierta a la catalana
+
+coberta de dos aiguavessos
+es cubierta a dos aguas
+
+cobriment amb voltes
+es abovedamiento
+
+cobrir amb volta
+es abovedar
+
+còdol
+es canto pelado; canto rodado; morrillo
+
+coeficient d’edificabilitat
+es coeficiente de edificabilidad
+
+cola
+es cola
+
+coll fals
+es tablón de ménsula; viga en ménsula; viga mensular
+
+collar
+es tomar
+
+collarí
+es collarín; collarino
+
+col·lector
+es colector
+
+colze
+es codo
+
+colze de 180°
+es codo de 180°
+
+colze de canvi d’eix
+es codo de cambio de eje
+
+compactació
+es compactación
+
+compactadora de corrons
+es apisonadora; rodillo compactador; rodillo tándem
+
+complex turístic
+es complejo turístico; resort
+
+comporta
+es compuerta
+
+compòsit
+es composite
+
+compressió
+es compresión
+
+compressor
+es compresor
+
+comptador
+es contador
+
+constricció
+es constricción
+
+comptador de gas
+es contador de gas
+
+construcció
+es construcción
+
+con d’Abrams
+es cono de Abrams
+
+constructor -a m i
+es constructor
+
+construir
+es construir; edificar; fabricar; levantar
+
+contenidor
+es contenedor
+
+condicionament
+es acondicionamiento
+
+conducció
+es conducción
+
+conglomerant
+es conglomerante
+
+contracte
+es contrato
+
+conglomerat
+es conglomerado
+
+contractista m i
+es contratista
+
+connexió de servei
+es acometida
+
+contrafletxa
+es contraflecha
+
+contrapetja
+es contrahuella
+
+contraplacat
+es contrachapado
+
+contrapunxó
+es contrapunzón
+
+conversió en zona de vianants
+es peatonalización
+
+corba
+es curva
+
+corba isolux
+es curva isolux
+
+corbada
+es bovedilla; revoltón
+
+corda
+es cuerda
+
+cordill
+es cordel
+
+cordó de soldadura
+es cordón de soldadura
+
+cornisa
+es cornisa
+
+coronament
+es coronación; coronamiento
+
+corretja
+es gozne; pernio
+
+corró
+es rodillo
+
+corronat -ada
+es ruleteado
+
+cristallina
+es cristalina; media luna
+
+corrosió
+es corrosión
+
+cromat -ada
+es cromado
+
+crui
+es grieta
+
+cruïlla
+es cruce
+
+corrugat -ada
+es corrugado
+
+cota
+es cota
+
+coure
+es cobre
+
+cremona
+es cremona
+
+cua d’oreneta
+es cola de milano
+
+cubilot
+es cubilote
+
+creuer
+es crucero
+
+cuina
+es cocina
+
+cullera autoprensora
+es cuchara bivalva
+
+cúpula gallonada
+es cúpula gallonada
+
+curull d’aspiració estàtica
+es caperuza de aspiración estática
+
+deflector
+es deflector
+
+delimitació
+es deslinde
+
+delimitar
+es deslindar
+
+demolició
+es demolición; derribo
+
+derivació
+es derivación; desvío
+
+derivació en T
+es derivación en T
+
+d’alt nivell
+es de alto standing; de categoría
+
+desbast
+es desbaste
+
+desbrossadora
+es desbrozadora
+
+desguàs
+es desaguadero; desagüe
+
+desmunt
+es desmonte
+
+desmuntar
+es desmontar
+
+desplom
+es desplomo
+
+destesar
+es destensar
+
+digestor aerobi
+es digestor aerobio
+
+digestor anaerobi
+es digestor anaerobio
+
+dilatació
+es dilatación
+
+dimensionament
+es dimensionado; dimensionamiento
+
+dimensionar
+es dimensionar
+
+dipol
+es dipolo
+
+dipòsit
+es depósito
+
+disc abrasiu
+es disco abrasivo
+
+distribuïdor
+es distribuidor
+
+doella
+es telar
+
+dormitori
+es cuarto; dormitorio; habitación
+
+dosatge
+es dosificación
+
+dovella
+es dovela
+
+drenatge
+es drenaje
+
+dutxa
+es ducha
+
+dutxa de telèfon
+es ducha de teléfono
+
+edificatori -òria
+es edificatorio
+
+edifici
+es edificio; inmueble
+
+edifici readaptat
+es loft
+
+eixalbar
+es enjalbegar
+
+elastòmer
+es elastómero
+
+electrificació
+es electrificación
+
+embellidor
+es rosetón
+
+embigada
+es envigado
+
+emblanquinada
+es blanqueo
+
+emmotllatge
+es enmoldado; moldeado
+
+empaperat
+es empapelado
+
+empernat
+es atornillado
+
+empostissat
+es entablado; entarimado
+
+emblanquinar
+es encalar
+
+emblanquinat
+es encalado; encaladura
+
+emprimació
+es imprimación
+
+embornal
+es imbornal
+
+emprimar
+es imprimar
+
+emmacat
+es encachado
+
+encadellar
+es engargolar; machihembrar
+
+emmorterar
+es amorterar
+
+encadellat
+es machihembrado
+
+encadenat
+es encintado
+
+encalentidor
+es calentador
+
+encastament
+es empotramiento
+
+encofrador -a
+es encofrador
+
+encofrar
+es encofrar
+
+encofrat
+es encofrado
+
+enderroc
+es escombro
+
+enderroc
+esbucament
+
+enderrocament
+esbucament
+
+endinsada
+es retranqueo
+
+endoll
+es enchufe
+
+enfinestrat -ada
+es con ventanas
+
+enlluït
+es enlucido
+
+enllumenat
+es alumbrado
+
+enllumenat d’emergència
+es alumbrado de emergencia
+
+entornpeu
+es zanquín
+
+entornpeu
+es rodapié; zócalo
+
+enrajolat
+es embaldosado; solado
+
+entrada
+es entrada; hall; vestíbulo; zaguán
+
+enrajolat
+es alicatado
+
+entrebigat
+es entrevigado
+
+enrigidir
+es enrigidecer
+
+entresòl
+es entresuelo
+
+entresolat
+es altillo; entrepiso; entreplanta
+
+envà
+es tabique
+
+ennobliment
+es gentrificación
+
+enrajolar
+es baldosar; embaldosar
+
+enrigidor
+es rigidizador
+
+ensostrador -a m i
+es techador
+
+envà de maó de quart
+es tabique de panderete
+
+esbocar
+es abocardar
+
+esbucament
+enderrocament
+
+escacat -ada
+es ajedrezado
+
+escaiola
+es escayola; yeso escayola
+
+escaiolista m i
+es escayolista
+
+escairada
+es escuadría
+
+envelar-se
+es alabearse
+
+envelat
+es carpa
+
+envidrament
+es acristalamiento
+
+envidrament mòbil
+es acristalamiento móvil
+
+escaire
+es escuadra
+
+envidrat -ada
+es acristalado
+
+escala
+es escalera
+
+escala d’incendis
+es escalera de incendios
+
+escalímetre
+es escalímetro
+
+escala de caragol
+es escalera de caracol
+
+escaló
+es peldaño
+
+escala de gat
+es escala de barco; escala de gato; escala de mano
+
+escala de mà
+es escalera de mano
+
+escata
+es cascarilla
+
+escalar
+es escalar
+
+escatar
+es descafilar; escafilar
+
+escatat
+es descafilado; escafilado
+
+escombreta
+es escobilla
+
+escopidor
+es bateaguas; vierteaguas
+
+escalatge
+es escalado
+
+escalfapanxes
+es chimenea
+
+escorredor
+es escurreplatos; escurridor
+
+escurador
+rentador
+
+esdeveniment
+es evento
+
+esforç
+es esfuerzo
+
+esforç d’extensió
+es esfuerzo de extensión; esfuerzo de tracción
+
+esforç de cisallament
+es esfuerzo cortante
+
+esllavissada
+es corrimiento; deslizamiento
+
+esmalt
+es esmalte
+
+esmeril
+es esmeril
+
+espàrrec
+es espárrago
+
+espart
+es esparto
+
+espàtula
+es espátula
+
+espiell
+es mirilla
+
+espitllera
+es aspillera; saetera
+
+esplanació
+es explanación
+
+esplandit
+es alféizar; derrame
+
+estanquitat
+es estanqueidad; estanquidad
+
+estassada
+es desbroce; desbrozo
+
+estenalles
+es tenazas
+
+estendre
+es tender
+
+estesa
+es huella
+
+esponjament
+es esponjamiento
+
+esquerda
+es cascajo; machaca
+
+esquerdejar
+es enfoscar previamente; regularizar; zarpear
+
+estesa
+es tendido
+
+estopada
+es empaquetadura
+
+estanc -a
+es estanco
+
+estrebador -a m i
+es entibador
+
+estrebat
+es entibación
+
+estrep
+es estribo
+
+estrep
+es estribo
+
+estria
+es estría
+
+estriar
+es estriar
+
+estructura
+es estructura
+
+estuc
+es estuco
+
+estucador -a m i
+es estucador; estuquista
+
+estucat
+es estucado
+
+estufa
+es estufa
+
+excavació
+es excavación
+
+excavadora
+es excavadora; pala excavadora
+
+existències
+es existencias; stock
+
+extintor de diòxid de carboni
+es extintor de dióxido de carbono
+
+extintor de pols
+es extintor de polvo
+
+extradós
+es extradós; trasdós
+
+falleba
+es españoleta; falleba
+
+façana
+es fachada
+
+fals escaire
+es escuadra falsa; falsa escuadra; falsarregla
+
+façana posterior
+es fachada posterior
+
+fanal
+es farola
+
+fang cuit
+es barro cocido
+
+farmaciola
+es botiquín
+
+fatiga
+es fatiga
+
+feix transvasador
+es rack
+
+extradossat
+es trasdosado
+
+faig
+es haya
+
+faixa
+es peinazo
+
+faixa armada
+es cadena; encadenado; zuncho
+
+falca verda
+es cuña verde
+
+femella
+es tuerca
+
+ferro galvanitzat
+es hierro galvanizado
+
+ferro laminat
+es hierro laminado
+
+ferrallista m i
+es operario de enrejado del hormigón
+
+fi
+es fino
+
+ferramenta
+es herraje
+
+fibra de vidre
+es fibra de vidrio
+
+fibrociment
+es fibrocemento
+
+fibrociment ondulat
+es fibrocemento ondulado
+
+filada
+es hilada
+
+fíler
+es filler
+
+ferreteria
+es ferretería
+
+ferro colat
+es fundición; hierro colado; hierro de fundición
+
+ferro forjat
+es hierro de forja; hierro forjado
+
+filera
+es terraja
+
+finestra de guillotina
+es ventana de guillotina
+
+filferro
+es alambre
+
+fillola
+es mesilla
+
+finestra oscil·lobatent
+es ventana oscilobatiente
+
+finestral
+es ventanal
+
+fissuració
+es fisuración
+
+fita
+es hito
+
+fitació
+es amojonamiento
+
+fitar
+es amojonar
+
+finestra abatible
+es ventana abatible
+
+finestra basculant
+es ventana basculante
+
+finestra corredissa
+es ventana corredera
+
+finestra de batent pivotant vertical
+es ventana de hoja pivotante; ventana pivotante
+
+fleix
+es fleje
+
+fluxor
+es fluxómetro
+
+fletxa
+es flecha
+
+folre
+es forro
+
+flexo
+es flexo
+
+fonament continu
+es cimiento corrido
+
+flexòmetre
+es flexómetro
+
+fonaments
+es cimentación; cimientos
+
+flexotracció
+es flexotracción
+
+font
+es fuente
+
+flonjall
+es blandón
+
+fontaner -a m i
+es fontanero
+
+floró
+es florón
+
+fontaneria
+es fontanería
+
+fluxòmetre
+es fluxómetro
+
+forjar
+es aterrajar
+
+forjat
+es forjado
+
+formigó pobre
+es hormigón pobre
+
+forjat sanitari
+es forjado sanitario
+
+formigó pretesat
+es hormigón precomprimido; hormigón pretensado
+
+formigó
+es hormigón; mazacote
+
+formigó armat
+es hormigón armado
+
+formigó vibrat
+es hormigón vibrado
+
+formigó cel·lular
+es hormigón aerocluso; hormigón aireado; hormigón celular
+
+formigonada
+es hormigonado
+
+formigó ciclopi
+es hormigón ciclópeo
+
+formigonar
+es hormigonar
+
+formigó en massa
+es hormigón en masa
+
+formigonera
+es hormigonera
+
+formigó lleuger
+es hormigón ligero
+
+forn
+es horno
+
+forrellat
+es cerrojo
+
+fresa
+es fresa
+
+fossa
+es foso
+
+fricció
+es fricción; rozamiento
+
+frontissa
+es bisagra
+
+fuita
+es fuga
+
+fullola
+es chapa de madera; lámina de madera
+
+fumeral
+es humero
+
+fossa sèptica
+es fosa séptica
+
+franja
+es franja
+
+fregadora
+rentador
+
+fregar
+es lijar
+
+fusible
+es fusible
+
+gafa de punta
+es patilla de clavo
+
+fust
+es fuste
+
+galeria de serveis
+es galería de servicios
+
+fusta
+es madera
+
+galfó
+es perno
+
+fustam
+es carpintería
+
+galleda
+es cubo
+
+fuster -a m i
+es carpintero
+
+garatge
+es garaje
+
+garbell
+es criba; zaranda
+
+garbell rotatiu
+es trómel
+
+garbellar
+es cribar
+
+gafa
+es patilla
+
+gafa de canal
+es fiador
+
+gelosia
+es celosía
+
+granota
+es mono
+
+ginyola
+es tendel
+
+granulometria
+es granulometría
+
+grata-sòl
+es rascasuelos
+
+grava
+es grava
+
+gravenc -a
+es con grava
+
+golfa
+es buhardilla; desván
+
+gotera
+es gotera
+
+granallar
+es granallar
+
+granallatge
+es granallado
+
+gravera
+es gravera
+
+gres
+es gres
+
+grua
+es grúa
+
+grua torre
+es grúa de torre
+
+grueta
+es maquinillo
+
+gruix
+es espesor; grosor
+
+gual
+es vado
+
+guant
+es guante
+
+guix
+es yeso
+
+guix blanc
+es yeso blanco
+
+guix comú
+es yeso comercial; yeso común; yeso negro
+
+grup electrogen
+es grupo electrógeno
+
+guixaire
+es yesero
+
+gunita
+es gunita
+
+gunitar
+es gunitar
+
+H
+habitació
+
+habitatge
+es vivienda
+
+impermeabilitzant
+es impermeabilizante
+
+impermeable
+es impermeable
+
+impuresa
+es impureza
+
+hidròfug
+es hidrófugo
+
+instal·lació elèctrica
+es instalación eléctrica
+
+hidrofugat -ada
+es hidrofugado
+
+instal·lador -a de canonades m i
+es instalador de tuberías
+
+interruptor
+es interruptor
+
+illa
+es manzana
+
+interruptor unipolar
+es interruptor unipolar
+
+jaç
+es lecho
+
+junta perimetral
+es junta perimetral
+
+jardinera
+es jardinera
+
+jardineria
+es jardinería
+
+juntura de filada
+es tendel
+
+juntura vertical
+es llaga
+
+junta
+es junta; juntura
+
+junta de dilatació
+es junta de dilatación
+
+lacar
+es lacar; laquear
+
+lamel·la
+es lama
+
+
+lavabo
+es aseo; cuarto de aseo; lavabo
+
+lavabo
+es lavabo
+
+lavabo de paret
+es lavabo mural; lavabo suspendido
+
+lavabo de peu
+es lavabo de pedestal
+
+linòleum
+es linóleo
+
+llamborda
+es adoquín
+
+llanterna
+es linterna
+
+llapis
+es lápiz
+
+llar
+es chimenea; hogar
+
+llata
+es lata; ristrel
+
+llata d’empostissar
+es durmiente; rastrel; ristrel
+
+llautó
+es latón
+
+llicència d’edificació
+es licencia de construcción
+
+llindar
+es tranco; umbral
+
+llum articulat
+es lámpara articulada
+
+lliscat
+es enlucido
+
+lluna
+es luna
+
+local
+es local
+
+llosa
+es losa
+
+llosa alveolada
+es losa alveolada
+
+llosa massissa
+es losa maciza
+
+llum
+es luz; vano
+
+llum
+es lámpara
+
+M
+mac de torrent
+
+macadam
+es macadán
+
+maceta
+es maceta
+
+magnetotèrmic -a
+es magnetotérmico
+
+mainell
+es mainel; parteluz
+
+malla electrosoldada
+es malla electrosoldada; mallazo
+
+manyeria
+es cerrajería
+
+mandrinatge
+es escariado
+
+maó
+es ladrillo
+
+maó calat
+es ladrillo perforado
+
+maó de cubilot
+es ladrillo refractario
+
+maó de falca
+es ladrillo de bóveda
+
+maó de xemeneia
+es ladrillo de chimenea
+
+maó foradat
+es ladrillo hueco
+
+mànega
+es manga; manguera
+
+maneguet
+es manguito
+
+maneta
+es manija; manilla
+
+manobre -a m i
+es manobre; peón; peón de mano
+
+manòmetre
+es manómetro
+
+maó porós
+es ladrillo poroso
+
+màquina monofil
+es máquina monohilo
+
+marbre
+es mármol
+
+marbre artificial
+es mármol artificial
+
+marbre blanc
+es mármol blanco
+
+marbrista
+es marmolista
+
+marès
+es piedra arenisca
+
+marger -a
+es bancalero
+
+marina
+es marina
+
+martell de paleta
+es martillo de albañil
+
+martell de picapedrer
+es martillo de pico
+
+martell pneumàtic
+es martillo neumático
+
+màscara antipols
+es máscara antipolvo; mascarilla antipolvo
+
+massilla
+es masilla; mástique
+
+massilla asfàltica
+es masilla asfáltica
+
+mata-racó
+es matarrincón
+
+material decantable
+es material decantable
+
+mecanització
+es mecanizado
+
+mecanitzar
+es mecanizar
+
+menjador
+es comedor
+
+mènsula
+es ménsula
+
+mesclador -a de formigó m i
+es mezclador de cemento
+
+mestrejar
+es maestrear
+
+mesura
+es medida
+
+metre plegable
+es metro plegable
+
+mini
+es minio
+
+minvell
+es guardaguas; mimbel
+
+mirador
+es mirador; tribuna
+
+morter
+es mortero
+
+mosaic hidràulic
+es baldosa hidráulica; mosaico; mosaico hidráulico
+
+mosquetó
+es mosquetón
+
+morter asfàltic
+es mortero asfáltico
+
+motllura
+es moldura
+
+morter de calç hidràulica
+es mortero de cal hidráulica
+
+muntacàrregues
+es montacargas
+
+morter de calç i pòrtland
+es mortero bastardo
+
+muntant
+es larguero; montante
+
+morter de ciment
+es mortero de cemento
+
+muntant d’escala
+es zanca
+
+morter de ciment pòrtland
+es mortero de cemento pórtland
+
+muntatge
+es montaje
+
+mur
+es muro
+
+mur cortina
+es muro cortina
+
+nivell de bombolla
+es nivel de aire; nivel de burbuja
+
+mur de contenció
+es muro de contención
+
+nivell de mànega
+es nivel de manguera
+
+mur de revestiment
+es muro de revestimiento
+
+nivell freàtic
+es manto freático; nivel freático
+
+nivell piezomètric
+es nivel piezométrico
+
+nucli antic
+es casco histórico; casco viejo; centro histórico
+
+neoprè
+es neopreno
+
+nervadura
+es nervadura; nervio
+
+obra
+es obra
+
+obra de carreus
+es sillería
+
+òxid de ferro
+es óxido de hierro
+
+obra de fàbrica
+es obra de fábrica
+
+òxid de zinc
+es óxido de cinc
+
+obra de paleta
+es albañilería
+
+oxidació
+es oxidación
+
+obratge
+es labrado
+
+oxitall
+es oxicorte
+
+office
+es antecocina; office; ofís
+
+orellera
+es orejera
+
+orinador
+es mingitorio; urinario
+
+pal
+es poste
+
+pala de punta
+es pala de punta
+
+pala plana
+es llana; trulla
+
+palau
+es palacio
+
+paleta polidora
+es paleta de enlucir
+
+paleta m i
+es albañil
+
+paletina
+es empastador; paletina
+
+palplanxa
+es tablestaca
+
+panot
+es baldosón; loseta; loseta de hormigón
+
+pantalla de palplanxes
+es pantalla de tablestacas; tablestacado
+
+pany
+es cerradura
+
+pany
+es lienzo de pared; paño
+
+paleta
+es palet; paleta; palette
+
+paleta
+es paleta
+
+paleta catalana
+es paleta catalana
+
+paleta de pastar
+es paleta de amasar; paleta grande
+
+parallamps
+es pararrayos
+
+parament
+es paramento
+
+parcel·la
+es parcela
+
+paredat
+es mampostería
+
+paret de defora
+es muro de fachada; muro exterior
+
+paret de maó de quart
+quart
+
+paret de pedra seca
+es hormaza; pared horma
+
+paret mitgera
+es medianera; medianería; pared medianera
+
+paret buida
+es pared hueca
+
+paret de càrrega
+es muro de carga; pared de carga; pared maestra
+
+parquet
+es parqué
+
+pas de vianants
+es paso cebra; paso de peatones
+
+passadís
+es corredor; pasillo
+
+passador
+es colanilla
+
+passamà
+es pasamano; pasamanos
+
+pastada de formigó
+es amasadura de hormigón
+
+pastera
+es amasadera
+
+pati
+es patio
+
+pavès
+es pavés
+
+paviment
+es pavimento; piso; suelo
+
+pavimentar
+es pavimentar
+
+pedra angular
+es piedra angular
+
+pedra de Santanyí
+es piedra de Santanyí
+
+pedraplè
+es pedraplén
+
+pedreny
+es piedra
+
+pedrer
+es cantero
+
+pendent
+es pendiente
+
+perfil HEB Grey
+es perfil HEB Grey; viga de ala ancha
+
+perfil T
+es hierro en T; perfil en T; perfil T
+
+perfil U
+es hierro en U; perfil en U; perfil U
+
+perfils
+es perfilería; perfiles
+
+pèrgola
+es pérgola
+
+perimetral
+es perimetral
+
+perlita
+es perlita
+
+pern
+es perno
+
+pern d’ancoratge
+es perno de anclaje
+
+perpany
+es perpiaño
+
+persiana
+es persiana
+
+persiana de lamel·les orientables
+es persiana de lamas orientables
+
+persiana de llibret
+es persiana de librillo
+
+persiana enrotllable
+es persiana arrollable; persiana enrollable
+
+persiana para-sol
+es brise-soleil; persiana partesol
+
+peu dret
+es pie derecho
+
+pi de Flandes
+es pino de Flandes
+
+pic
+es pico
+
+pica de rentar
+es lavadero
+
+picadís
+es cascajo
+
+picapedrer –a
+es cantero; picapedrero
+
+picar
+es picar
+
+picó
+es pisón
+
+piconar
+es apisonar
+
+pica
+es seno
+
+pilar
+es pilar
+
+pilastra
+es pilastra
+
+pis pilot
+es piso piloto
+
+pintura
+es pintura
+
+pistola d’injectar
+es pistola de inyectar
+
+pintura al tremp
+es pintura al temple
+
+pintura plàstica
+es pintura plástica
+
+pinyolet
+es garbancillo
+
+pinzell
+es pincel
+
+placa de guix
+es placa de yeso
+
+placa de guix armada
+es plancha staff
+
+piqueta de presa de terra
+es pica de toma de tierra
+
+placa turca
+es placa turca; turca
+
+pis
+es piso; planta
+
+plafó
+es cuarterón; entrepaño
+
+plafó
+es panel
+
+plafó aïllant
+es panel aislante
+
+plafó multicapa
+es panel multicapa; panel sandwich
+
+planejament
+es planeamiento
+
+planejament urbanístic
+es planeamiento urbanístico
+
+plànol
+es plano
+
+planta baixa
+es bajos; planta baja
+
+planta soterrani
+es sótano
+
+plaqueta
+es ladrilleta; plaqueta
+
+plomada
+es plomada
+
+polidora
+es lijadora
+
+poliestirè
+es poliestireno
+
+poliestirè extrusionat
+es poliestireno extruido
+
+polietilè
+es polietileno
+
+polipropilè
+es polipropileno
+
+polir
+es pulimentar; pulir
+
+poliuretà
+es poliuretano
+
+pom
+es pomo
+
+porós -osa
+es poroso
+
+porta
+es puerta
+
+porta balconera
+es puerta de balcón
+
+porta de plafons
+es puerta de cuarterones
+
+porta llisa
+es puerta lisa; puerta plana
+
+pomel·la
+es pernio
+
+porta vidriera
+es puerta vidriera
+
+porcellana
+es porcelana
+
+portal
+es portal
+
+portalada
+es portalada
+
+post d’empostissar
+es tabla de entarimado
+
+portalàmpades
+es portalámpara; portalámparas
+
+posttesar
+es postensar
+
+portell
+es portillo
+
+pou
+es pozo; pozo de fundación
+
+porteria
+es portería
+
+pou absorbent
+es pozo absorbente
+
+pòrtic
+es pórtico
+
+porxo
+es porche; soportal
+
+porxo fals
+es desván gatero; desván perdido
+
+post
+es tabla
+
+pou de drenatge
+es pozo de drenaje; pozo filtrante
+
+pou de registre
+es pozo de registro
+
+presa de terra
+es toma de tierra
+
+pressupost
+es presupuesto
+
+prestatge
+es estante; poyata; repisa
+
+pretesar
+es pretensar
+
+pretesat -ada
+es pretensado
+
+projecció
+es proyección
+
+projecte
+es proyecto
+
+projecte bàsic
+es proyecto básico
+
+promotor -a
+es promotor
+
+proveta
+es probeta
+
+punt de llum
+es punto de luz
+
+punt de recolzament
+es punto de apoyo
+
+punta de vidre
+es punta de vidrio
+
+puntal
+es apeo
+
+puntal metàl·lic
+es puntal metálico
+
+punxó
+es puntero
+
+punxonament
+es punzonamiento
+
+queixal
+es mocheta
+
+ràcord
+es racor
+
+radiador
+es radiador
+
+rajola
+es baldosa
+
+rajola de fang de gerrer
+es baldosa de alfarería
+
+rajola de foc
+es vidriado rojo
+
+rajola de gerrer
+es baldosa prensada de alfarería
+
+rajola de València
+es azulejo
+
+rajola tallada
+es rasilla de alfarero; rasilla fina; rasilla recortada
+
+rajoleta
+es baldosín
+
+ram
+es ramal; tiro de escalera; tramo
+
+ram de fuster
+es carpintería
+
+ram de guixaire
+es yesería
+
+rasant
+es rasante
+
+raspall
+es cepillo
+
+raspat
+es raspado
+
+reactància
+es reactancia
+
+ram de paleta
+es albañilería
+
+rebaix
+es rebaje; rebajo
+
+ram de vidrier
+es vidriería
+
+rebava
+es rebaba
+
+rampa
+es rampa
+
+rasa
+es zanja
+
+rebedor
+es recibidor; recibimiento; recibo
+
+reblada
+es roblonado
+
+1178 reble
+es relleno
+
+rebliment
+es relleno
+
+rebliment
+es colmatación
+
+rebló
+es remache; roblón
+
+rebost
+es despensa
+
+recalçat
+es recalce; recalzo
+
+recolzament
+es apoyo
+
+recolzar
+es apoyar
+
+recular
+es retranquear
+
+reducció
+es reducción
+
+regata
+es regata; roza
+
+registre
+es registro
+
+reglada
+es línea maestra; maestra
+
+regle
+es reglón
+
+rehabilitació
+es rehabilitación
+
+1196 reixeta de ventilació
+es rejilla de ventilación
+
+remig
+es peinazo
+
+remodelació
+es remodelación
+
+remodelatge
+es fratasado
+
+rentamans
+es lavamanos
+
+replà
+es descansillo; meseta; rellano
+
+replanteig
+es replanteo
+
+resina termoendurible
+es resina termoendurecible
+
+resistència
+es resistencia
+
+respirador
+es respiradero
+
+retroexcavadora
+es retroexcavadora
+
+reubicar
+es reubicar
+
+revestiment
+es revestimiento
+
+rivet
+es burlete
+
+revestiment d’estanquitat
+es revestimiento de estanqueidad; revestimiento de estanquidad
+
+ribotar
+es acepillar; cepillar
+
+rigola
+es rigola
+
+riosta
+es riostra
+
+ripadora
+es ripper
+
+rodó
+es barra; redondo; varilla
+
+roure
+es roble
+
+rovell
+es herrumbre; óxido
+
+sabata
+es zapata
+
+sabata contínua
+es zapata corrida
+
+sac
+es saco
+
+1234 saca de runa
+es saca de escombros
+
+sapel·li
+es sapelli
+
+safareig
+es alberca; estanque
+
+segellar
+es sellar
+
+seient
+es asiento
+
+sala
+es sala; salón
+
+sanefa
+es cenefa
+
+sanejament
+es saneamiento
+
+sanitaris
+es aparatos sanitarios; sanitarios
+
+semisoterrani
+es semisótano
+
+senyalització
+es señalización
+
+senzillar
+es poner la primera rosca
+
+serra circular
+es sierra circular; sierra de disco
+
+serrabiaixos
+es caja de ingletes; cortaingletes
+
+sirena
+es sirena
+
+sobrecàrrega
+es sobrecarga
+
+sobreeixidor
+es aliviadero; rebosadero
+
+sifó
+es sifón
+
+sòcol
+es zócalo
+
+sifó de vas
+es sifón de botella; sifón sencillo de botella
+
+silicona
+es silicona
+
+silueta urbana
+es skyline
+
+sofit
+es plafón; sofito
+
+sòl
+es suelo
+
+sola
+es solera
+
+solar
+es solar
+
+soldadura
+es soldadura
+
+sortint
+es saliente
+
+sostre
+es techo
+
+sota teulada
+es abuhardillado
+
+sotapont
+es sopanda
+
+subpressió
+es subpresión
+
+subsolar
+es subsolar
+
+subsolatge
+es subsolado
+
+suport
+es apoyo; soporte
+
+suro
+es corcho
+
+talla-rajoles
+es cortaazulejos; cortamosaico
+
+tancaments de PVC
+es carpintería de PVC
+
+tancaments metàl·lics
+es carpintería metálica
+
+tallaferro
+es cortafrío
+
+tap de registre
+es tapón de registro
+
+tallantó
+es alcotana
+
+tapa
+es tapa
+
+talús
+es talud
+
+tapajuntes
+es tapajuntas
+
+tanca
+es valla
+
+tancador
+es cerradero
+
+tancament
+es cerramiento
+
+tapaporus
+es tapaporos
+
+taulell de cuina
+es encimera de cocina; mármol; tablero de cocina
+
+tauler
+es tablero
+
+tauló
+es tablón
+
+tefló
+es teflón
+
+telefonia
+es telefonía
+
+tensió
+es tensión
+
+termita
+es termita
+
+terra
+es tierra
+
+terraplè
+es terraplén
+
+terraplenada
+es terraplenado
+
+terrassa
+es terraza
+
+terrat
+es azotea; terrado; terraza
+
+terratzo
+es terrazo
+
+terrer
+es terrera
+
+tesar
+es tensar
+
+testera inferior
+es cabio bajo
+
+teula àrab
+es teja árabe; teja curva; teja lomuda
+
+teula carenera
+es teja de caballete; teja de cumbrera
+
+teula ceràmica
+es teja cerámica
+
+teula plana
+es teja plana
+
+teulada
+es tejado
+
+teulader
+es bovedilla plana
+
+timbre
+es timbre
+
+timbre de polsador
+es timbre de pulsador
+
+tirada
+es bulón
+
+tongada
+es tongada
+
+topall
+es tope
+
+topografia
+es topografía
+
+torre
+es chalé; torre; villa
+
+toscar
+es apomazar
+
+totxo
+es ladrillo macizo
+
+tova
+es adoba; adobe
+
+tovera
+es tobera
+
+traginadora de trabuc
+es dumper; volquete autopropulsado
+
+transformador
+es transformador
+
+trass
+es trass
+
+traster
+es trastero
+
+travada
+es arriostramiento
+
+travador de persiana
+es pestillo de contraventana; sujetador de persiana
+
+travar
+es arriostrar; riostrar
+
+travessa
+es traviesa
+
+travesser
+es cruceta; travesaño
+
+trepar
+es taladrar
+
+trepat
+es taladrado
+
+tub corrugat
+es tubo corrugado
+
+tub d’evacuació de fums
+es tubo de evacuación de humos
+
+túnel
+es túnel
+
+ubicar
+es ubicar
+
+ull de bou
+es ojo de buey
+
+ulleres
+es gafas
+
+umbracle
+es umbráculo
+
+vas
+es vaso
+
+vàter
+es inodoro; váter
+
+ventilació
+es ventilación
+
+urbanització
+es urbanización
+
+vergueró
+es junquillo
+
+vermiculita
+es vermiculita
+
+vàlvula antiretorn
+es válvula antirretorno; válvula de retención
+
+vàlvula de bola
+es válvula de bola; válvula esférica
+
+vernís
+es barniz
+
+vibrador
+es vibrador
+
+vidre
+es cristal; vidrio
+
+vidre armat
+es vidrio armado
+
+vidre de seguretat
+es vidrio de seguridad
+
+vidre doble
+es vidrio doble
+
+voladís -issa
+es voladizo
+
+volandera
+es arandela
+
+volta
+es bóveda
+
+volta bufada
+es bóveda baída; bóveda vaída
+
+escagassament
+es pandeo
+
+volada
+es nariz de peldaño
+
+volta de canó
+es bóveda de cañón; bóveda en cañón
+
+volta de creueria
+es bóveda de crucería; bóveda por arista gótica
+
+voltat -ada
+es abovedado
+
+vorada
+es bordillo
+
+voral
+es arcén
+
+vorera
+es acera
+
+xarxa
+es red
+
+xarxa de distribució d’aigua
+es red de distribución de agua
+
+xarxa de protecció
+es red de protección; red perimetral
+
+xarxa de sanejament
+es red de evacuación; red de saneamiento
+
+xerrac
+es serrucho
+
+xapa
+es chapa
+
+xunt
+es shunt
+
+zinc
+es cinc; zinc
+
+zona verda
+es zona verde
