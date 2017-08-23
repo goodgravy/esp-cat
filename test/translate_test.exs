@@ -3,6 +3,6 @@ defmodule TranslateTest do
   doctest Translate
 
   test "works bueno" do
-    assert Translate.esp_to_cat("bueno") == "bon"
+    assert Translate.esp_to_cat("bueno") == "bono"
   end
 end

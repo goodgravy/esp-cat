@@ -8,7 +8,7 @@ defmodule Mix.Tasks.Translate.Accuracy do
             |> analyse_cases
             |> aggregate_accuracies
 
-    IO.puts "Translation steps: #{Enum.join(Translate.steps, ", ")}"
+    IO.puts "Translation steps: #{Enum.join(Translate.step_names, ", ")}"
     IO.puts "Exactly correct: #{stats.exact} (#{stats.exact_ratio})"
     IO.puts "Correct ignoring accents: #{stats.accented} (#{stats.accented_ratio})"
   end
