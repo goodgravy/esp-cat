@@ -24,6 +24,7 @@ defmodule Translate.Mixfile do
   defp deps do
     [
       {:csv, "~> 2.0.0"},
+      {:word_smith, "~> 0.1.0"},
     ]
   end
 end
