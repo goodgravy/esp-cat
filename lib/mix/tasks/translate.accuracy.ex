@@ -11,7 +11,7 @@ defmodule Mix.Tasks.Translate.Accuracy do
       |> Enum.map(&Translate.case/1)
       |> Translate.analyse_cases
       |> Translate.aggregate_accuracies
-      [stats.exact_ratio, stats.accented_ratio]
+      [stats.exact_ratio, stats.accented_ratio, stats.jaro_ratio]
     end)
 
     IO.puts Enum.join(ratios_for_each_test_case, "\t")
