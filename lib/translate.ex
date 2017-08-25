@@ -5,14 +5,14 @@ defmodule Translate do
 
   defstruct [:correct_exactly, :correct_ignoring_accents]
 
+  def case([esp_word, cat_word]) do
+    [Translate.esp_to_cat(esp_word), cat_word]
+  end
+
   def esp_to_cat(esp_word) do
     Enum.reduce(Translate.Transformers.funcs(), esp_word, fn(fun, word) ->
       fun.(word)
     end)
-  end
-
-  def case([esp_word, cat_word]) do
-    [Translate.esp_to_cat(esp_word), cat_word]
   end
 
   def analyse_cases(cases) do

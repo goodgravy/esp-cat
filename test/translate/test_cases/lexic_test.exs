@@ -6,6 +6,6 @@ defmodule Translate.TestCases.LexicTest do
              |> Enum.to_list
 
     assert length(result) == 1445
-    assert Enum.at(result, 998) == ["office", "antecocina"]
+    assert Enum.at(result, 998) == ["antecocina", "office"]
   end
 end
