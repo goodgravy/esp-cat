@@ -12,8 +12,8 @@ defmodule Translate do
     end)
   end
 
-  def analyse_cases(cases) do
-    cases |> Enum.map(&correctness/1)
+  def analyse_records(records) do
+    records |> Enum.map(&analyse/1) |> Enum.map(&correctness/1)
   end
 
   def aggregate_accuracies(accuracies) do
@@ -28,10 +28,24 @@ defmodule Translate do
     }
   end
 
+  defp analyse(record) do
+    analyses = Enum.map(
+      record.intermediate_words,
+      fn(intermediate) ->
+        [
+          correct_exactly: correct_exactly(intermediate, record.cat_word),
+          correct_ignoring_accents: correct_ignoring_accents(intermediate, record.cat_word),
+        ]
+      end
+    )
+
+    Translate.TranslationRecord.add_analyses(record, analyses)
+  end
+
   defp correctness(record) do
     %__MODULE__{
-      correct_exactly: correct_exactly(hd(record.intermediate_words), record.cat_word),
-      correct_ignoring_accents: correct_ignoring_accents(hd(record.intermediate_words), record.cat_word),
+      correct_exactly: hd(record.analyses)[:correct_exactly],
+      correct_ignoring_accents: hd(record.analyses)[:correct_ignoring_accents],
     }
   end
 

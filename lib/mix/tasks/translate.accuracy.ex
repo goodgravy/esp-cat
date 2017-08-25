@@ -5,7 +5,7 @@ defmodule Mix.Tasks.Translate.Accuracy do
     stats = Translate.TestCases.Wikibooks.all()
             |> Enum.map(&Translate.TranslationRecord.from_pair/1)
             |> Enum.map(&Translate.translate/1)
-            |> Translate.analyse_cases
+            |> Translate.analyse_records
             |> Translate.aggregate_accuracies
 
     IO.puts "Translation steps: #{Enum.join(Translate.Transformers.names(), ", ")}"
