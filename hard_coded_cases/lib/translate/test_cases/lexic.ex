@@ -4,7 +4,7 @@ defmodule Translate.TestCases.Lexic do
   end
 
   defp path do
-    File.cwd! |> Path.join("test-cases/lexic.tsv")
+    File.cwd! |> Path.join("../test-cases/lexic.tsv")
   end
 end
 

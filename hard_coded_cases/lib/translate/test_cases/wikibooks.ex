@@ -4,6 +4,6 @@ defmodule Translate.TestCases.Wikibooks do
   end
 
   defp path do
-    File.cwd! |> Path.join("test-cases/wikibooks.tsv")
+    File.cwd! |> Path.join("../test-cases/wikibooks.tsv")
   end
 end
